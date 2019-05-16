@@ -107,9 +107,3 @@ node_templates:
         kwargs:
           routing:
             external: true
-
-outputs:
-
-  router:
-    value: { get_attribute: [ router, external_id ] }
-
