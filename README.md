@@ -1,0 +1,2 @@
+# openstack-network
+TOSCA blueprint to deploy public and private network in OpenStack from Cloudify
